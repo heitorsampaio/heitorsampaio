@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I play League of Legends 👹
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="heitorsampaio Spotify Playing" width="350" />](https://open.spotify.com/user/heitorsampaio?si=uE_RhajhQPWOkSABKD1NhA)
+[<img src="https://novatorem-git-master.heitorsampaio.vercel.app" alt="heitorsampaio Spotify Playing" width="350" />](https://open.spotify.com/user/heitorsampaio?si=uE_RhajhQPWOkSABKD1NhA)
 
 ### Connect with me:
 [<img align="left" alt="heitorsampaio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.heitorsampaio.vercel.app/api?username=heitorsampaio&show_icons=true&hide_border=true" />
+  <img align="left" alt="Heitor Sampaio's Github Stats" src="https://github-readme-stats.heitorsampaio.vercel.app/api?username=heitorsampaio&show_icons=true&hide_border=true" />
 
 </details>
 
