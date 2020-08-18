@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I play League of Legends 👹
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-git-master.heitorsampaio.vercel.app" alt="heitorsampaio Spotify Playing" width="350" />](https://open.spotify.com/user/heitorsampaio?si=uE_RhajhQPWOkSABKD1NhA)
+[<img src="https://novatorem-git-master.heitorsampaio.vercel.app/api/spotify-playing" alt="heitorsampaio Spotify Playing" width="350" />](https://open.spotify.com/user/heitorsampaio?si=uE_RhajhQPWOkSABKD1NhA)
 
 ### Connect with me:
 [<img align="left" alt="heitorsampaio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
