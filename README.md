@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [Here](github.com/heitorsampaio)
+- 👨‍💻 All of my projects are available at [Here](heitorsampaio)
 
 - 💬 Ask me about **Python, API, ML, AI**
 
