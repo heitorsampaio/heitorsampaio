@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](heitorsampaio)
 
-- 💬 Ask me about **Python, API, ML, AI**
+- 💬 Ask me about **Python, Django, Django REST Framework,  ML, AI**
 
 - 📫 How to reach me **horlando.heitor@gmail.com**
 
