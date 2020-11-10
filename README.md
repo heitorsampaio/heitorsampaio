@@ -21,6 +21,7 @@
 [<img src="https://novatorem-git-master.heitorsampaio.vercel.app/api/spotify-playing" alt="heitorsampaio Spotify Playing" width="350" />](https://open.spotify.com/user/heitorsampaio?si=uE_RhajhQPWOkSABKD1NhA)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorsampaio&show_icons=true" alt="heitorsampaio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorsampaio&show_icons=true&theme=dracula&locale=en&layout=compact" alt="heitorsampaio" /></p>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
