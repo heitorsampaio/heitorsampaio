@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorsampaio&label=Profile%20views&color=0e75b6&style=plastic" alt="heitorsampaio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heitorsampaio" alt="heitorsampaio" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="heitorsampaio" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/heitorsampaio](github.com/heitorsampaio)
 
